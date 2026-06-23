@@ -1,0 +1,6 @@
+name=("harshini")
+city=("kurnool")
+date=("20/06/2026")
+print("My name is", name)
+print("I am from", city)
+print("Today's date is", date)
